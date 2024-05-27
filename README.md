@@ -1,6 +1,6 @@
 # Music and Mental Health Analysis
 
-This repository contains an exploratory data analysis (EDA) and a logistic regression model built on a dataset collected from a Music and Mental Health Survey. The project aims to understand the relationship between music listening habits and mental health indicators such as anxiety, depression, insomnia, and OCD.
+This repository contains an exploratory data analysis (EDA) and a very basic logistic regression model built on a dataset collected from a Music and Mental Health Survey. The project aims to understand the relationship between music listening habits and mental health indicators such as anxiety, depression, insomnia, and OCD.
 
 ## Table of Contents
 - [Overview](#overview)
